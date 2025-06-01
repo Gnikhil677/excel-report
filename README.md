@@ -1,10 +1,7 @@
 # 🚀 The Data Behind Data Jobs: Skillsets and Salary Insights
 **This project explores how different skills influence salary variations in data-related jobs, uncovering key insights and industry trends.**
 
-
-
-https://github.com/user-attachments/assets/824246a0-b3db-4355-a18b-989058c2a664
-
+![Untitled video - Made with Clipchamp](https://github.com/user-attachments/assets/0a5fd0d2-6b66-4aca-8d18-9b1ea0c9ba0a)
 
 
 ## OVERVIEW 
