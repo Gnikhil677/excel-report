@@ -7,7 +7,7 @@
 ## OVERVIEW 
 This project aims to analyze and uncover insights into how different skills impact salaries in data-related jobs. By exploring real-world data, the project highlights trends and patterns that show how specific technical and analytical skills are associated with varying salary levels. The goal is to understand which skills are most valued in the data industry and how they influence earning potential.
 
-**Download my excel project from here** - my_project.xlsx
+**Download my excel project from here** - https://github.com/Gnikhil677/excel-report/blob/main/my_project.xlsx
 
 ## 📊 Data Description
 The dataset used in this project was sourced from Luke Baraouuse's Excel course, containing job listings with the following columns:
